@@ -19,7 +19,7 @@
       
       <guid>https://orionuo.github.io/download/download/</guid>
       <description>RELEASE NOTES
-2019-01-19 Finally we&#39;re here! This release marks the first Orion release with real native multiplatform support, but more than anything, this marks the first time since Ultima Online launch that we have a functional native client for Linux and MacOSX. To get here, we invested a lot of time and did a lot of changes to the codebase that did not reflect in actual bug fixes, as this was much required so we will be able to continue going forward bringing back life to the project since it was abandonned.</description>
+2019-01-19 Finally we&#39;re here! This release marks the first Orion release with real native multiplatform support, but more than anything, this marks the first time since Ultima Online launch that we have a functional native client for Linux and MacOSX. To get here, we invested a lot of time and did a lot of changes to the codebase that did not reflect in actual bug fixes, as this was much required so we will be able to continue going forward bringing life back to the project since it was abandoned.</description>
     </item>
     
   </channel>
