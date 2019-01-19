@@ -60,8 +60,7 @@ The Orion Suite is composed of the game client, the game launcher and updater an
       
       <guid>https://orionuo.github.io/download/download/</guid>
       <description>RELEASE NOTES
-201?-??-?? - Beta release for multiplatform support  OLD CLIENT RELEASE NOTES
-2018-09-06 OrionUO Client v1.10.0.1 - Bugfix: Fix character selection screen with empty slots - Bugfix: Fix character creation issue with POL server for client protocol 7.013.0 - Bugfix: Fix OrionAssistant so it receives lists for skills and spells - Bugfix: Cleanup WispDataStreams - Change: uo_debug.cfg has been renamed onion.cfg Please update your file. 2018-09-04 OrionUO Client v1.</description>
+2019-01-19 Finally we&#39;re here! This release marks the first Orion release with real native multiplatform support, but more than anything, this marks the first time since Ultima Online launch that we have a functional native client for Linux and MacOSX. To get here, we invested a lot of time and did a lot of changes to the codebase that did not reflect in actual bug fixes, as this was much required so we will be able to continue going forward bringing back life to the project since it was abandonned.</description>
     </item>
     
   </channel>
