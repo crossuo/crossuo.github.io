@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Downloads on OrionUO: Ultima Online</title>
-    <link>https://orionuo.github.io/download/</link>
-    <description>Recent content in Downloads on OrionUO: Ultima Online</description>
+    <title>Downloads on CrossUO: Ultima Online</title>
+    <link>https://crossuo.github.io/download/</link>
+    <description>Recent content in Downloads on CrossUO: Ultima Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© OrionUO Team</copyright>
+    <copyright>© CrossUO Team</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://orionuo.github.io/download/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crossuo.github.io/download/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download</title>
-      <link>https://orionuo.github.io/download/download/</link>
+      <link>https://crossuo.github.io/download/download/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://orionuo.github.io/download/download/</guid>
+      <guid>https://crossuo.github.io/download/download/</guid>
       <description>RELEASE NOTES
-2019-01-19 Finally we&#39;re here! This release marks the first Orion release with real native multiplatform support, but more than anything, this marks the first time since Ultima Online launch that we have a functional native client for Linux and MacOSX. To get here, we invested a lot of time and did a lot of changes to the codebase that did not reflect in actual bug fixes, as this was much required so we will be able to continue going forward bringing life back to the project since it was abandoned.</description>
+  </description>
     </item>
     
   </channel>

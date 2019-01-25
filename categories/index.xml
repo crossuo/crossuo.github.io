@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on OrionUO: Ultima Online</title>
-    <link>https://orionuo.github.io/categories/</link>
-    <description>Recent content in Categories on OrionUO: Ultima Online</description>
+    <title>Categories on CrossUO: Ultima Online</title>
+    <link>https://crossuo.github.io/categories/</link>
+    <description>Recent content in Categories on CrossUO: Ultima Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© OrionUO Team</copyright>
+    <copyright>© CrossUO Team</copyright>
     
-	<atom:link href="https://orionuo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crossuo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

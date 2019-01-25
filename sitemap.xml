@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://orionuo.github.io/features/launcher/</loc>
+    <loc>https://crossuo.github.io/features/launcher/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/features/client/</loc>
+    <loc>https://crossuo.github.io/features/client/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/features/assistant/</loc>
+    <loc>https://crossuo.github.io/features/assistant/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/about/about/</loc>
+    <loc>https://crossuo.github.io/about/about/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/download/download/</loc>
+    <loc>https://crossuo.github.io/download/download/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/about/</loc>
-    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://orionuo.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://orionuo.github.io/download/</loc>
+    <loc>https://crossuo.github.io/about/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/features/</loc>
+    <loc>https://crossuo.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://crossuo.github.io/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/</loc>
+    <loc>https://crossuo.github.io/download/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orionuo.github.io/tags/</loc>
+    <loc>https://crossuo.github.io/features/</loc>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://crossuo.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

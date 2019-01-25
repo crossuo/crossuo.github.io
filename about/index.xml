@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on OrionUO: Ultima Online</title>
-    <link>https://orionuo.github.io/about/</link>
-    <description>Recent content in Abouts on OrionUO: Ultima Online</description>
+    <title>Abouts on CrossUO: Ultima Online</title>
+    <link>https://crossuo.github.io/about/</link>
+    <description>Recent content in Abouts on CrossUO: Ultima Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© OrionUO Team</copyright>
+    <copyright>© CrossUO Team</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://orionuo.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crossuo.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About the Project</title>
-      <link>https://orionuo.github.io/about/about/</link>
+      <link>https://crossuo.github.io/about/about/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://orionuo.github.io/about/about/</guid>
-      <description>OrionUO is an Open Source Ultima Online&amp;reg; client, written from scratch for Windows by Hotride and ported to Linux and MacOSX by fungos. The project is currently maintained by fungos and Deuce.
-The project aims to have a fully open Ultima Online&amp;reg; client compatible with different eras from the game.
-The Orion Suite is composed of the game client, the game launcher and updater and (for the foreseeable future) a closed source scriptable game assistant similar to Razor Assitant.</description>
+      <guid>https://crossuo.github.io/about/about/</guid>
+      <description>CrossUO is an Open Source Ultima Online&amp;reg; client - a hard-fork from OrionUO, ported to Linux and MacOSX by fungos. The project is currently maintained by fungos, Deuce and Nirad.
+The project aims to have a fully open cross-platform Ultima Online&amp;reg; client compatible with different eras from the game.
+The CrossUO Suite is composed of the game client, the game launcher and updater and (for the foreseeable future) a closed source scriptable game assistant similar to Razor.</description>
     </item>
     
   </channel>
