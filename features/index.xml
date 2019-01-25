@@ -32,13 +32,13 @@ Currently supporting Windows 7, Windows 10, Linux and MacOSX.</description>
     </item>
     
     <item>
-      <title>XUO:Asist</title>
+      <title>X:UO Assist</title>
       <link>https://crossuo.github.io/features/assistant/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://crossuo.github.io/features/assistant/</guid>
-      <description>Currently the only closed source component, XUO:Asist is a full featured game assistant with macro and scripting support.
-Making use of the powerful Qt scripting, a Javascript based scripting engine, XUO:Asist is extremely flexible enabling complex actions to be easily automated.
+      <description>Currently the only closed source component, X:UO Assist is a full featured game assistant with macro and scripting support.
+Making use of the powerful Qt scripting, a Javascript based scripting engine, X:UO Assist is extremely flexible enabling complex actions to be easily automated.
 Check the scripting documentation for more details.</description>
     </item>
     
