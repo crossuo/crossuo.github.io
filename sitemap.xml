@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://crossuo.github.io/features/launcher/</loc>
+    <loc>https://crossuo.com/features/launcher/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/features/client/</loc>
+    <loc>https://crossuo.com/features/client/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/features/assistant/</loc>
+    <loc>https://crossuo.com/features/assistant/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/about/about/</loc>
+    <loc>https://crossuo.com/about/about/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/download/download/</loc>
+    <loc>https://crossuo.com/download/download/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/about/</loc>
-    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://crossuo.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://crossuo.github.io/</loc>
+    <loc>https://crossuo.com/about/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/download/</loc>
+    <loc>https://crossuo.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://crossuo.com/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/features/</loc>
+    <loc>https://crossuo.com/download/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crossuo.github.io/tags/</loc>
+    <loc>https://crossuo.com/features/</loc>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://crossuo.com/tags/</loc>
     <priority>0</priority>
   </url>
   

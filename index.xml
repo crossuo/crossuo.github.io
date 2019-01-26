@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CrossUO: Ultima Online</title>
-    <link>https://crossuo.github.io/</link>
+    <link>https://crossuo.com/</link>
     <description>Recent content on CrossUO: Ultima Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© CrossUO Team</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://crossuo.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crossuo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>X:UO Launcher</title>
-      <link>https://crossuo.github.io/features/launcher/</link>
+      <link>https://crossuo.com/features/launcher/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/features/launcher/</guid>
+      <guid>https://crossuo.com/features/launcher/</guid>
       <description>A full featured game client account manager, launcher, configurator and updater that will keep you up-to-date with all X:UO Suite applications for your platform!</description>
     </item>
     
     <item>
       <title>Cross-Platform Client</title>
-      <link>https://crossuo.github.io/features/client/</link>
+      <link>https://crossuo.com/features/client/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/features/client/</guid>
+      <guid>https://crossuo.com/features/client/</guid>
       <description>CrossUO is a OpenGL and SDL2 based game client reimplementation that tries to be compatible with original clients from all Ultima Online&amp;reg; eras.
 Currently supporting Windows 7, Windows 10, Linux and MacOSX.</description>
     </item>
     
     <item>
       <title>X:UO Assist</title>
-      <link>https://crossuo.github.io/features/assistant/</link>
+      <link>https://crossuo.com/features/assistant/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/features/assistant/</guid>
+      <guid>https://crossuo.com/features/assistant/</guid>
       <description>Currently the only closed source component, X:UO Assist is a full featured game assistant with macro and scripting support.
 Making use of the powerful Qt scripting, a Javascript based scripting engine, X:UO Assist is extremely flexible enabling complex actions to be easily automated.
 Check the scripting documentation for more details.</description>
@@ -44,10 +44,10 @@ Check the scripting documentation for more details.</description>
     
     <item>
       <title>About the Project</title>
-      <link>https://crossuo.github.io/about/about/</link>
+      <link>https://crossuo.com/about/about/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/about/about/</guid>
+      <guid>https://crossuo.com/about/about/</guid>
       <description>CrossUO is an Open Source Ultima Online&amp;reg; client - a hard-fork from OrionUO, ported to Linux and MacOSX by fungos. The project is currently maintained by fungos, Deuce and Nirad.
 The project aims to have a fully open cross-platform Ultima Online&amp;reg; client compatible with different eras from the game.
 The CrossUO Suite is composed of the game client, the game launcher and updater and (for the foreseeable future) a closed source scriptable game assistant similar to Razor.</description>
@@ -55,10 +55,10 @@ The CrossUO Suite is composed of the game client, the game launcher and updater 
     
     <item>
       <title>Download</title>
-      <link>https://crossuo.github.io/download/download/</link>
+      <link>https://crossuo.com/download/download/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/download/download/</guid>
+      <guid>https://crossuo.com/download/download/</guid>
       <description></description>
     </item>
     

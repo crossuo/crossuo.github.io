@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on CrossUO: Ultima Online</title>
-    <link>https://crossuo.github.io/download/</link>
+    <link>https://crossuo.com/download/</link>
     <description>Recent content in Downloads on CrossUO: Ultima Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© CrossUO Team</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://crossuo.github.io/download/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crossuo.com/download/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download</title>
-      <link>https://crossuo.github.io/download/download/</link>
+      <link>https://crossuo.com/download/download/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://crossuo.github.io/download/download/</guid>
+      <guid>https://crossuo.com/download/download/</guid>
       <description></description>
     </item>
     
