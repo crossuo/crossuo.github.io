@@ -32,6 +32,15 @@ Currently supporting Windows 7, Windows 10, Linux and MacOSX.</description>
     </item>
     
     <item>
+      <title>Download</title>
+      <link>https://crossuo.com/download/download/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossuo.com/download/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About the Project</title>
       <link>https://crossuo.com/about/about/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
@@ -40,15 +49,6 @@ Currently supporting Windows 7, Windows 10, Linux and MacOSX.</description>
       <description>CrossUO is an Open Source Ultima Online&amp;reg; client - a hard-fork from OrionUO, ported to Linux and MacOSX by fungos. The project is currently maintained by fungos, Deuce and Nirad.
 The project aims to have a fully open cross-platform Ultima Online&amp;reg; client compatible with different eras from the game.
 The CrossUO Suite is composed of the game client, the game launcher and updater and (for the foreseeable future) a closed source scriptable game assistant similar to Razor.</description>
-    </item>
-    
-    <item>
-      <title>Download</title>
-      <link>https://crossuo.com/download/download/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://crossuo.com/download/download/</guid>
-      <description></description>
     </item>
     
   </channel>
